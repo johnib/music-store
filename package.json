@@ -1,0 +1,19 @@
+{
+  "name": "music-store",
+  "version": "1.0.0",
+  "description": "Music enventory that includes authentication, purchase and DB management of music albums.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnib/music-store.git"
+  },
+  "author": "Jonathan Rubin Yaniv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnib/music-store/issues"
+  },
+  "homepage": "https://github.com/johnib/music-store#readme"
+}
